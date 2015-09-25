@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KaCovMapGen
+namespace SpatialGeometry
 {
     /// <summary>
     /// C# Implementation of Bitonic Tour algorithm.
